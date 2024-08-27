@@ -1,2 +1,1 @@
-# EEL3050
-Biosensors Course
+# EEL3050: Biosensors Course
