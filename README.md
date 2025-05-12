@@ -30,4 +30,4 @@ Lec 30: Need of POC Devices <br>
 Lec 31: Types of Immunosensors <br>
 Lec 32: Organ-on-Chip (OOC), Paper-based LOC <br>
 Lec 33: Readout Electronics, Components in the Output System (Various electronics used in Biosensors) <br>
-Lec 34: Components, Characteristics and Design Parameters of Readout Unit <br>`  
+Lec 34: Components, Characteristics and Design Parameters of Readout Unit
